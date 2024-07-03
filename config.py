@@ -1,0 +1,4 @@
+AD_SERVER = ''
+AD_USER = ''
+AD_PASSWORD = ''
+BASE_DN = ''
